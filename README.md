@@ -9,9 +9,9 @@
 
 |Name         | Description |
 | ----------- | ----------- |
-| IFC Dashboard      | Title       |
-| IFC Rules  | Text        |
-| Use Case   | Text        |
-| Future Format   | Text        |
-| Custom Tools   | Text        |
+| [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | Title       |
+| [IFC Rules](https://github.com/timmcginley/11034/tree/main/A2__Rules)  | Text        |
+| [Use Case](https://github.com/timmcginley/11034/tree/main/A3__Use_Case)  | Text        |
+| [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)   | Text        |
+| [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | Text        |
 
