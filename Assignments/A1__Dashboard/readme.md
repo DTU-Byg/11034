@@ -6,7 +6,7 @@ This assignment involved 4 steps...
 
 ## 1) Export the standard Revit example project in IFC
 
-The link here will help: https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Revit-DocumentPresent/files/GUID-14037C31-EBAD-41A8-9099-E6DD65BB626E-htm.html
+The [link here](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Revit-DocumentPresent/files/GUID-14037C31-EBAD-41A8-9099-E6DD65BB626E-htm.html) will help: 
 
 So you probably want to know what version of IFC to export? The following is the advice from the IFA tool that we will be sending the IFC to in the next step.
 
