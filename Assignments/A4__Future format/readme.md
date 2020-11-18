@@ -15,7 +15,6 @@ You will produce for each of your uses cases (2 x python scripts and 4 x excel s
 * be careful about the naming of the sheets as this provides the hierarchy of information that you want to use in your tool.
 * Alternatively, if you really don't want to use Python for this, assignment you can talk to Andrei.
 
-
 ## 2. Excel including assumptions and external data
 * Some data may not be available in the model. In this case produce a second excel file that contains the assumptions for the use case...
 
