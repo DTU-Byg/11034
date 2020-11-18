@@ -1,10 +1,4 @@
 # Advanced Building Information Modelling 11034
- This is the repo for the Open Source Course Advanced Building Information Modelling at DTU Byg. This repo contains:
- * course structure
- * code examples
- * information booklets
- 
- ## Assignments
  Descriptions of the assingments can be found in the assignment folders. The assignments are as follows:
 
 |Name         | Description |
@@ -15,3 +9,6 @@
 | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)   | Text        |
 | [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | Text        |
 
+# course information booklets
+# standards
+# code examples
