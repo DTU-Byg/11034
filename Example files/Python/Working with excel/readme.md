@@ -4,7 +4,7 @@
 
 2) in your python file  type
 
-import ifcopenshell
+```import ifcopenshell
 import xlsxwriter # https://xlsxwriter.readthedocs.io/tutorial01.html#tutorial1
 
 workbook = xlsxwriter.Workbook('output/future_format.xlsx')
@@ -15,4 +15,4 @@ ifc_file = ifcopenshell.open("model/Duplex_A_20110907.ifc")
 
 worksheet.write(0,0, 'hello')
 
-workbook.close()
+workbook.close()```
