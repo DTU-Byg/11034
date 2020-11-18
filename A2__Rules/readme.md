@@ -1,4 +1,4 @@
-# A2: IFC Rules
+# A2: Rules
 
 In this assignment you will: design and write an IFC rule in Python for each of the Gather, Generate and Analyze use case segments (3 rules in total). The assignment can be done just using the RWTH viewer. However for some cases, i.e. when we try and use more than one model, we need to setup our own python / ifcopenshell development environment.
 
