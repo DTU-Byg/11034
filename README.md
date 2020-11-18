@@ -6,9 +6,6 @@
  
  ## Assignments
  Descriptions of the assingments can be found in the assignment folders. The assignments are as follows:
- * IFC Rules
-* BIM Use Case
-* Future format
 
 |Name         | Description |
 | ----------- | ----------- |
