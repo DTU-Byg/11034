@@ -4,7 +4,6 @@ In this assignment we will develop a tool based on one of the use cases you iden
 * Address a specific use case
 * ideally be written in python, but can be other approaches in special cases if agreed with the course responsible.
 
-
 You will produce one final tool in the following folders, the structure of which is summarised below.
 
 ## 1. Input
@@ -30,5 +29,5 @@ Custom tool
   - FOLDER: output
     - this is if the output for your tool is a file, for instance an excel file.
   - main.py
-  - FOLDER: documentation
+  - FOLDER: documentation / readme.md file - you could use typora to edit.
     - Place the step by step guide to using your tool in here.
