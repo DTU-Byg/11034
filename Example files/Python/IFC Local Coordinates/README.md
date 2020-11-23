@@ -1,8 +1,8 @@
 # How-To
-Download or Copy the script in a main.py.
-Create an 'output' folder and a 'model' folder
-Add the models for test in the model folder.
-Change the main.py to Load the correct model, before running the code.
+- Download or Copy the script in a main.py.
+- Create an 'output' folder and a 'model' folder.
+- Add the models for test in the model folder.
+- Change the main.py to Load the correct model, before running the code.
 
 
 # IFC Local Coordinates Script
