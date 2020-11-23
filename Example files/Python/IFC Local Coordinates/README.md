@@ -1,4 +1,4 @@
-#IFC Local Coordinates Script
+# IFC Local Coordinates Script
 
 This Scripts is created to get local placement of all elements in excel.
 Its based of https://github.com/IfcOpenShell/IfcOpenShell/issues/688 
