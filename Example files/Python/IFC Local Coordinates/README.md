@@ -1,3 +1,10 @@
+# How-To
+Download or Copy the script in a main.py.
+Create an 'output' folder and a 'model' folder
+Add the models for test in the model folder.
+Change the main.py to Load the correct model, before running the code.
+
+
 # IFC Local Coordinates Script
 
 This Scripts is created to get local placement of all elements in excel.
@@ -5,6 +12,7 @@ Its based of https://github.com/IfcOpenShell/IfcOpenShell/issues/688
 Shoutout to aothm for the base of the code and Moult for debugging it.
 
 Also take a look at this link to understand placement in IFC better: https://pythoncvc.net/?p=851
+
 
 # Output Information
 
@@ -17,6 +25,7 @@ This defines if the matrix is a diretion or a position in space.
 [ x1  y1  z1  t1 ]
 [ x2  y2  z2  t2 ]
 [  0   0   0   1 ]
+
 
 # Using placement matrix
 
