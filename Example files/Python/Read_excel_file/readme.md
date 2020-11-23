@@ -7,5 +7,5 @@ pip install xlrd
 ```
 Test with the example script that reads the excel file in the output folder.
 
-For more documentation see: https://xlrd.readthedocs.io/en/latest/
+
 
