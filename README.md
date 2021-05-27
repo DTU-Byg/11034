@@ -12,3 +12,5 @@
 ## course information booklets
 ## standards
 ## code examples
+## references
+[IFC History](https://itc.scix.net/pdfs/w78-2015-paper-004.pdf)
