@@ -1,6 +1,6 @@
 # Advanced Building Information Modelling 11034
 ## Assignments
-
+The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
 |# |Name         | Description |
 |---------- | ----------- | ----------- |
 | 1 | [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | Title       |
