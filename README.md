@@ -2,7 +2,7 @@
 
 The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
 
-Learning Objectives
+## Learning Objectives
 1. Analyse a current BIM use case in BPMN.
 2. Propose a tool or workflow for a BIM use case in BPMN
 3. Design rules to check conformance of an IFC model
@@ -20,8 +20,8 @@ Learning Objectives
 | 4 | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)   | Text        |
 | 5 | [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | Text        |
 
-## course information booklets
-## standards
-## code examples
-## references
+## Course information booklets
+## Standards
+## Code examples
+## References
 [IFC History](https://itc.scix.net/pdfs/w78-2015-paper-004.pdf)
