@@ -12,13 +12,13 @@ The course is divided into 5 modules, each module builds on the previous one to 
 7. Design an OpenBIM tool or workflow to address the challenges of a specific use case based on international and national standards and best practice.
 
 ## Assignments
-|# |Name         | Description |
-|---------- | ----------- | ----------- |
-| 1 | [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | Title       |
-| 2 | [IFC Rules](https://github.com/timmcginley/11034/tree/main/A2__Rules)  | Text        |
-| 3 | [Use Case](https://github.com/timmcginley/11034/tree/main/A3__Use_Case)  | Text        |
-| 4 | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)   | Text        |
-| 5 | [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | Text        |
+|# |Name         | Description | Assignment |
+|---------- | ----------- | ----------- | ----------- |
+| 1 | [IFC](https://github.com/DTU-Byg/11034/wiki/%E2%9D%A4%EF%B8%8F-IFC-and-OpenBIM) |  [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | Title       |
+| 2 | [Python](https://github.com/DTU-Byg/11034/wiki/Python) | [IFC Rules](https://github.com/timmcginley/11034/tree/main/A2__Rules)  | Text        |
+| 3 | | [Use Case](https://github.com/timmcginley/11034/tree/main/A3__Use_Case)  | Text        |
+| 4 | | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)   | Text        |
+| 5 | | [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | Text        |
 
 ## Course information booklets
 ## Standards
