@@ -2,8 +2,6 @@
 
 See [example](https://github.com/timmcginley/11034/tree/main/Example%20files/Python/Working%20with%20excel)
 
-The aim of this assignment is to provide you with an opportunity to deep dive into the IFC file format. The IFC file format is the industry standard for BIM, but many BIM practioners still don't really understand it. Therefore this assignment introduces a method to you to convert the IFC file to an excel file that we will then use inorder to produce a custom IFC BIM dashboard. The idea is that whilst we are doing it here with the revit example file, that once you understand this process your dashboard sheet could be used in other projects. 
-
 This assignment involved 4 steps...
 
 ## 1) Export the standard Revit example project in IFC
