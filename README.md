@@ -14,7 +14,7 @@ The course is divided into 5 modules, each module builds on the previous one to 
 ## Assignments
 |# |Name         | Tools | Assignment | Learning Objective |
 |---------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | IFC | [IFC](https://github.com/DTU-Byg/11034/wiki/%E2%9D%A4%EF%B8%8F-IFC-and-OpenBIM) |  [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | Title       | 4 |
+| 1 | IFC Rules | [IFC](https://github.com/DTU-Byg/11034/wiki/%E2%9D%A4%EF%B8%8F-IFC-and-OpenBIM) |  [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | Title       | 4 |
 | 2 | [Python](https://github.com/DTU-Byg/11034/wiki/Python) | [IFC Rules](https://github.com/timmcginley/11034/tree/main/A2__Rules)  | Text        | 3,4 |
 | 3 | [Use Case](https://github.com/timmcginley/11034/tree/main/A3__Use_Case)  | BPMN | Text        | 1,2,7 |
 | 4 |  Data Finder   | IFC | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)       | 1,2,7 |
