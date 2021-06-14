@@ -14,7 +14,7 @@ In this assignment you will dig deeper into use cases and some tools and standar
 
 | For each use case upload                                     |
 | ------------------------------------------------------------ |
-| ·    Report (documenting sections 1,2,3,5,6,7)  o   Use_case_report_Team_XX.pdf  ·    Information exchange excel sheet (for section 4)  o   Use_case_INFX_Team_XX.xlsx  ·    Bpmn file of current use case (redrawn by you) + BPMN file for your proposed  tool   o   NAME_OF_USE_CASE_Team_XX.bpmn  o   NAME_ OF_PROPOSED_PROCESS_Team_XX.bpmn |
+| 1.    Report (documenting sections 1,2,3,5,6,7)  1.  Use_case_report_Team_XX.pdf 1.  Information exchange excel sheet (for section 4)  1.   Use_case_INFX_Team_XX.xlsx  1.   Bpmn file of current use case (redrawn by you) + BPMN file for your proposed  tool   1.   NAME_OF_USE_CASE_Team_XX.bpmn  1.   NAME_ OF_PROPOSED_PROCESS_Team_XX.bpmn |
 
 ## What to actually submit….
 
@@ -28,4 +28,4 @@ For each of your chosen use cases, write a report based on the BIM Execution Pla
 |4|**Information Exchange**| Fill out the excel template with the information for your planned tool / workflow. For this you will need access to the excel, which we will provide ASAP and the Dikon document to help you specify the LOD (LOR,LOG,LOI) for each element you need for you tool / workflow. This can get confusing - don’t worry we can help 😊|
 |5|**Your tool / workflow**| Description of how your tool / workflow would solve the use case|
 |6|**IFC**| Describe the IFC entities and properties for each of the elements you identified in your information exchange.|
-|7|**Delivery**| Description of how you would make the tool / workflow - what steps would you go through? |   
+|7|**Delivery**| Description of how you would make the tool / workflow - what steps would you go through? |
