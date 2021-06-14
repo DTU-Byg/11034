@@ -6,6 +6,7 @@ We are also really interested in presenting BIM as a method for you to explore t
 ## Content
 In this assignment you will dig deeper into use cases and some tools and standards to support this and develop two BIM use case that extends provide a real example of a BIM use that you can then use to develop your final project (you will choose one of these BIM uses for the final project). We will also introduce the concepts and tools of [IDM](https://technical.buildingsmart.org/standards/information-delivery-manual/)
 
+## Assignment
 *Therefore the core of the assignment is:*  For each of the two selected use cases, produce An A4 report. Therefore, the assignment report should include as many pages as are required to concisely convey your use cases.
 
 | For each use case upload                                     |
