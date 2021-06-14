@@ -1,6 +1,6 @@
 # 11034 Advanced Building Design
 
-The course is divided into 5.5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
+The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
 
 ## Learning Objectives
 1. Analyse a current BIM use case in BPMN.
@@ -24,7 +24,7 @@ The course is divided into 5.5 modules, each module builds on the previous one t
 The information booklets are in the process of being converted to markdown. In the mean
 
 ##  BIM Awesome
-We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. 
+We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. We are trying to bring together some of these developments in a list repo called [bim awesome](https://dtu-byg.github.io/BIM-awesome/)
 
 ## Standards
 This course is possible because of a large community of humans who have been passionate about supporting standards in the AEC for a very long time. The main organisation representing these people and the needs for standardisaiton in the AEC is the awesome [BuildingSmart](https://www.buildingsmart.org/). BuildingSmart are responsible for the development of several core interoperability tools that make this course possible they include.
@@ -32,7 +32,7 @@ This course is possible because of a large community of humans who have been pas
 Brief history of IFC.
 
 ### IDM
-Breif history of IDM
+Brief history of IDM
 
 ## Code examples
 The super exciting thing about this course is that it tries to move from the old way of running linear courses, where students repeat the same standard exercise each year and try and change it.
