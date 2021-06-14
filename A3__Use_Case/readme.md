@@ -15,31 +15,38 @@ In this assignment you will dig deeper into use cases and some tools and standar
 
 ## What to actually submit….
 
- 
-
 For each of your chosen use cases, write a report based on the BIM Execution Plan from Penn State. However our report is a bit different as it includes the plan for the development of a new tool / workflow. It should include the following stages.
 
-**1) Goal**
-
-Goal of the tool / workflow in one sentence.
-
-i.e. to support the user to calculate the total total cost of the project.
-
-**2) Model Use (Bim Uses)**
-
-Please refer initially to the **Mapping BIM uses, use cases and processes** section in this document.
-
-**3) Process**
-
+|Part|   |
+|---|---|
+|**1) Goal**|Goal of the tool / workflow in one sentence. 
+i.e. to support the user to calculate the total total cost of the project.|
+|**2) Model Use (Bim Uses)**|Please refer initially to the **Mapping BIM uses, use cases and processes** section in this document.|
+|**3) Process**|
 1) model the process diagram from your use case in BPMN.io please remember to save the .bpmn file and you can save a .svg file that you can insert into your report.![img](file:///C:/Users/ADMIN-~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 
 2) description of the **process** of your tool / workflow
 
-Link to original process maps [here](https://psu.pb.unizin.org/app/uploads/sites/189/2019/05/Template-Process-Maps-V2-0-MS-Powerpoint-Format.ppt).
+Link to original process maps [here](https://psu.pb.unizin.org/app/uploads/sites/189/2019/05/Template-Process-Maps-V2-0-MS-Powerpoint-Format.ppt).|
 
-**4) Information Exchange**
+|**4) Information Exchange**|
+Fill out the excel template with the information for your planned tool / workflow. For this you will need access to the excel, which we will provide ASAP and the Dikon document to help you specify the LOD (LOR,LOG,LOI) for each element you need for you tool / workflow. This can get confusing - don’t worry we can help 😊|
 
-Fill out the excel template with the information for your planned tool / workflow. For this you will need access to the excel, which we will provide ASAP and the Dikon document to help you specify the LOD (LOR,LOG,LOI) for each element you need for you tool / workflow. This can get confusing - don’t worry we can help 😊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **5) Your tool / workflow**
 
