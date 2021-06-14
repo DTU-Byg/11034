@@ -1,5 +1,6 @@
 # A3: Use Case
-We want you to focus on Advanced BIM isn’t about going in and changing everything all at once, but really focusing on a specific use case and getting that right and in the process setting up the foundations to support work in further use cases without actually doing it. In this way we reduce the potential to overstretch and also provide you with an opportunity to demonstrate the potential value that you offer to a company quickly and in a controlled space. 
+Advanced BIM isn’t about going in and changing everything all at once. It is about focusing on a specific use case, ansd starting to think baout how you would test a potential solution to that use case before you build thee solutions. It is about considering, the information that you need - what can you get from the IFC for instance? This assignment focuses on the 
+In this way we reduce the potential to overstretch and also provide an opportunity to demonstrate the potential value that you offer to a company quickly and in a controlled space. 
 
 We are also really interested in presenting BIM as a method for you to explore the things that interest you. Therefore, in this assignment we want you to identify 2 use cases that you are really passionate about and want to explore further. One of these will end up being the one that you choose in your final project.
 
