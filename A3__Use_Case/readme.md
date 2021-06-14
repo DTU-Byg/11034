@@ -3,7 +3,8 @@ We want you to focus on Advanced BIM isn’t about going in and changing everyth
 
 We are also really interested in presenting BIM as a method for you to explore the things that interest you. Therefore, in this assignment we want you to identify 2 use cases that you are really passionate about and want to explore further. One of these will end up being the one that you choose in your final project.
 
-In this assignment you will dig deeper into use cases and some tools and standards to support this and develop two BIM use case that extends provide a real example of a BIM use that you can then use to develop your final project (you will choose one of these BIM uses for the final project). 
+## Content
+In this assignment you will dig deeper into use cases and some tools and standards to support this and develop two BIM use case that extends provide a real example of a BIM use that you can then use to develop your final project (you will choose one of these BIM uses for the final project). We will also introduce the concepts and tools of [IDM](https://technical.buildingsmart.org/standards/information-delivery-manual/)
 
 *Therefore the core of the assignment is:*  For each of the two selected use cases, produce An A4 report. Therefore, the assignment report should include as many pages as are required to concisely convey your use cases.
 
