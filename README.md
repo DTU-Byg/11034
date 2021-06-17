@@ -36,12 +36,6 @@ This course is possible because of a large community of humans who have been pas
 |MVD |[Model View Definitions](https://www.buildingsmart.org/standards/bsi-standards/model-view-definitions-mvd/) | Data model exchange specifications | A great idea to produce a subset of the total model represented in the IFC. The idea would be to create a smaller specific model that captures just the information they need. The reality is that this is quite difficult to produce which it is possible is the reason there are few approved MVD instances. ||
 | BCF | [BIM Collaboration Format](https://www.buildingsmart.org/standards/bsi-standards/bim-collaboration-format-bcf/) | Model-based, software-independent communication protocols | ||
 | bSDD | [buildingSMART Data Dictionary](https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/) |  | ||
-### IFC
-Brief history of IFC.
-
-### IDM
-Brief history of IDM
-
 ## Code examples
 The super exciting thing about this course is that it tries to move from the old way of running linear courses, where students repeat the same standard exercise each year and try and change it.
 
