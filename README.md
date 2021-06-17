@@ -24,7 +24,7 @@ The course is divided into 5 modules, each module builds on the previous one to 
 The information booklets are in the process of being converted to markdown. In the mean
 
 ##  BIM Awesome
-We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. We are trying to bring together some of these developments in a list repo called [bim awesome](https://dtu-byg.github.io/BIM-awesome/)
+We are at an exciting point in BIM at the moment, it is a real moment where the future is being defined in front of our eyes. We are trying to bring together some of these developments in a list repo called [bim awesome](https://dtu-byg.github.io/BIM-awesome/).
 
 ## Standards
 This course is possible because of a large community of humans who have been passionate about supporting standards in the AEC for a very long time. The main organisation representing these people and the needs for standardisaiton in the AEC is the awesome [BuildingSmart](https://www.buildingsmart.org/). BuildingSmart are responsible for the development of several core interoperability tools that make this course possible they include. The table below shows the 5 main standards supported by BuildingSMART. 
