@@ -2,7 +2,17 @@
 
 The course is divided into 5 modules, each module builds on the previous one to guide you through identifying your use case and the data you need to analyse to create your tool or workflow. The course focuses on the IFC schema to provide you with a robust future proof and interoperable understanding of BIM.
 
+## Assignments
+|# |Name         | Tools | Assignment | Learning Objective | Standards / Guidelines |
+|---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | [IFC Dashboard](https://github.com/DTU-Byg/11034/wiki/1.-IFC-Dashboard) | [IFC](https://github.com/DTU-Byg/11034/wiki/%E2%9D%A4%EF%B8%8F-IFC-and-OpenBIM) / Node-RED |  [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | 4       | IFC    |
+| 2 | [Python](https://github.com/DTU-Byg/11034/wiki/Python) | [IFC Rules](https://github.com/timmcginley/11034/tree/main/A2__Rules) / IfcOpenShell | Text        | 3,4 | IFC |
+| 3 | [Use Case](https://github.com/timmcginley/11034/tree/main/A3__Use_Case)  | BPMN | Text        | 1,2,7 | IDM, Dikon |
+| 4 |  Format  | IFC | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)       | 1,2,7 | IFC, bSDD |
+| 5 |  [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | IFC / IFC.js | [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools) |4,6,7|IFC, BCF?|
+
 ## Learning Objectives
+
 1. Analyse a current BIM use case in BPMN.
 2. Propose a tool or workflow for a BIM use case in BPMN
 3. Design rules to check conformance of an IFC model
@@ -11,16 +21,8 @@ The course is divided into 5 modules, each module builds on the previous one to 
 6. Evaluate the suitability of software licensing options for digital tools.
 7. Design an OpenBIM tool or workflow to address the challenges of a specific use case based on international and national standards and best practice.
 
-## Assignments
-|# |Name         | Tools | Assignment | Learning Objective | Standards / Guidelines |
-|---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | [IFC Dashboard](https://github.com/DTU-Byg/11034/wiki/1.-IFC-Dashboard) | [IFC](https://github.com/DTU-Byg/11034/wiki/%E2%9D%A4%EF%B8%8F-IFC-and-OpenBIM) |  [IFC Dashboard](https://github.com/timmcginley/11034/tree/main/A1__Dashboard)   | 4       | IFC    |
-| 2 | [Python](https://github.com/DTU-Byg/11034/wiki/Python) | [IFC Rules](https://github.com/timmcginley/11034/tree/main/A2__Rules)  | Text        | 3,4 | IFC |
-| 3 | [Use Case](https://github.com/timmcginley/11034/tree/main/A3__Use_Case)  | BPMN | Text        | 1,2,7 | IDM, Dikon |
-| 4 |  Format  | IFC | [Future Format](https://github.com/timmcginley/11034/tree/main/A4__Future%20format)       | 1,2,7 | IFC, bSDD |
-| 5 |  [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools)  | IFC | [Custom Tools](https://github.com/timmcginley/11034/tree/main/A5__Custom%20tools) |4,6,7|IFC, BCF?|
-
 ## OpenBIM
+
 This course is possible because of a large community of humans who have been passionate about supporting standards in the AEC for a very long time. The main organisation representing these people and the needs for standardisaiton in the AEC is the awesome [BuildingSmart](https://www.buildingsmart.org/). BuildingSmart are responsible for the development of several core interoperability tools that make this course possible they include. The table below shows the 5 main standards supported by BuildingSMART. 
 
 ### IFC [Industry Foundation Classes](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)
@@ -67,7 +69,11 @@ The buildingSMART Data Dictionary (bSDD) is an online service that hosts classif
 
 ### IdS [Information Delivery Specification](https://technical.buildingsmart.org/projects/information-delivery-specification-ids/)
 
-An Information Delivery Specification (IdS) is a computer interpretable document that defines the Exchange Requirements of model based exchange. It defines how objects, classifications, properties, and even values and units need to be delivered and exchanged. This can be a combination of Industry Foundation Classes (IFC), Domain Extensions, and additional classifications and properties (national agreements or company specific ones; either stored in bSDD or somewhere else). This is the standard to use to define your Level of Information Needs. It brings validation of IFC to the client, the modeler and the Software Tools that perform (automated) analyses. It is a core component that can be used as a contract to deliver the correct information. It holds the ability to create localized and use-case specific requirements for your projects and asset portfolio. The IDS is the solution for predictable and reliable data exchange workflows.
+*A computer interpretable document that defines the Exchange Requirements of model based exchange.*
+
+The Information Delivery Specification defines how objects, classifications, properties, and even values and units need to be delivered and exchanged. This can be a combination of Industry Foundation Classes (IFC), Domain Extensions, and additional classifications and properties (national agreements or company specific ones; either stored in bSDD or somewhere else). This is the standard to use to define your Level of Information Needs. It brings validation of IFC to the client, the modeler and the Software Tools that perform (automated) analyses. It is a core component that can be used as a contract to deliver the correct information. It holds the ability to create localized and use-case specific requirements for your projects and asset portfolio. The IDS is the solution for predictable and reliable data exchange workflows.
+
+![alt](https://technical.buildingsmart.org/wp-content/uploads/2020/07/ILS.png)
 
 Technical info is available on https://github.com/buildingSMART/IDS
 
