@@ -34,7 +34,7 @@ What you choose to represent in your dashboard is up to you. but you could consi
 
 * what else can you find in the IFC data that you could use in your dashboard?
 
-## 5) Submisssion
+## 5) Submission
 
 Your group must submit your modified excel including the dashboard sheet as the first sheet in the workbook.
 
