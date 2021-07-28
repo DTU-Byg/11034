@@ -16,7 +16,7 @@ I would recommend IFC2x3, to make it easier :)
 
 ## 2) Convert the IFC to an Excel work book using the IFA tool
 
-https://www.nist.gov/services-resources/software/ifc-file-analyzer
+[NIST tool download](https://www.nist.gov/services-resources/software/ifc-file-analyzer)
 
 ## 3) Explore the generated excel file and use this to try and understand the IFC standard
 
