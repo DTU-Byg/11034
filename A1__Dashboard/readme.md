@@ -20,6 +20,8 @@ I would recommend IFC2x3, to make it easier :)
 
 https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/
 
+we will walk around the class to help you with this. it takes awhile to get your head around it...
+
 ## 4) Add a sheet to the work book you have generated, then use data from the other sheets to provide a dashboard of the building.
 
 What you choose to represent in your dashboard is up to you. but you could consider trying to represent:
