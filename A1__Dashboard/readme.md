@@ -1,8 +1,6 @@
 # A1: IFC Dashboard
 
-See [example](https://github.com/timmcginley/11034/tree/main/Example%20files/Python/Working%20with%20excel)
-
-This assignment involved 4 steps...
+This assignment involves 4 steps
 
 ## 1) Export the standard Revit example project in IFC
 
@@ -39,3 +37,7 @@ What you choose to represent in your dashboard is up to you. but you could consi
 Your group must submit your modified excel including the dashboard sheet as the first sheet in the workbook.
 
 You are not submitting any reports with this, so make sure that your dashboard is easy to understand - how do we know what we are looking at, and what you tried to do?
+
+
+
+in the next assignment we look at how to apply this  approach using python..... See [example](https://github.com/timmcginley/11034/tree/main/Example%20files/Python/Working%20with%20excel)
