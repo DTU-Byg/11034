@@ -1,6 +1,11 @@
 ## OpenBIM
 
-this is great ....
+This session covers:
+
+- Open and closed BIM.
+- Traditional BIM
+- The OpenBIM Innovation Ecosystem
+- The people at the front of this effort
 
 IFC.JS
 
