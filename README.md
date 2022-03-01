@@ -33,6 +33,8 @@ IFC is a standardized, digital description of the built asset industry.  It is a
 
 [IFC History](https://itc.scix.net/pdfs/w78-2015-paper-004.pdf)
 
+[IFC documentation (IFC4X3) in markdown!](http://ifc43-docs.standards.buildingsmart.org/)
+
 ### IDM [Information Delivery Manual](https://www.buildingsmart.org/standards/bsi-standards/information-delivery-manual/)
 
 *A methodology for defining and documenting business processes and data requirements*
